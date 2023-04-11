@@ -1,5 +1,5 @@
 ### Activate-Sublime-Text-Build-4143
-<br>
+
 1.Edit sublime_text.exe file.
 
 2.Press CTRL + F and look for: 80 78 05 00 0f 94 C1
@@ -9,5 +9,6 @@
 4.Save the file.
 
 5.Enjoy an Unlimited User License!
-<br><br>
+<br>
+<br>
 Last update: 2023-04-11
