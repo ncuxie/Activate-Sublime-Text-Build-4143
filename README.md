@@ -1,4 +1,4 @@
-# Activate-Sublime-Text-Build-4143
+### Activate-Sublime-Text-Build-4143
 
 1.Edit sublime_text.exe file.
 
@@ -9,5 +9,5 @@
 4.Save the file.
 
 5.Enjoy an Unlimited User License!
-<br><br>
+
 Last update: 2023-04-11
